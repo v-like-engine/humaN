@@ -1,0 +1,21 @@
+master и demo имеют различия в README файле (1-я строка)
+
+У ветки master 10 коммитов:
+
+6 коммитов, перешедших из удаленного репозитория:
+
+(Commits on Jun 29, 2016)
+
+fix readme
+
+dots
+
+README added
+
+boots
+
+heat added
+
+init
+
+4 сделанных мной коммита (merge)
